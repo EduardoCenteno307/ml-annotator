@@ -51,4 +51,4 @@ Only images that have at least one annotation are exported.
 
 ## License
 
-MIT
+MIT. See [LICENSE](LICENSE).
