@@ -8,3 +8,6 @@ venv/
 *.tmp
 # local annotation projects
 annotations_project.json
+
+# build artifacts
+*.zip
